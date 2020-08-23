@@ -1,0 +1,52 @@
+body
+{
+    background-color: rgb(78, 78, 160);
+    size: 1000px;
+}
+#gtitre
+{
+    padding-left: 400px;
+    width: 700px;
+
+}
+
+.OJ
+{
+    display:inline-flex;
+    border: solid 1px;
+    text-align: center;
+    padding: 10px;
+    top: 20px;
+    position: relative;
+}
+
+#joueur
+{
+    left: 400px;
+    width: 190px;
+}
+
+#ordinateur
+{
+    left: 600px;
+    width: 230px;
+}
+
+#jouer
+{
+    outline: none;
+    background-color: aqua;
+    text-align: center;
+    width: 100px;
+    left: 190px;
+    top: 75px;
+    position: relative;
+}
+.footer
+{
+    position: relative;
+    top: 490px;
+    display: grid;
+    align-items: center;
+    justify-items: center; 
+}
